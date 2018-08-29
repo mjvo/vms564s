@@ -1,5 +1,5 @@
-baseURL: "https://mjvo.github.io/course-stub"
-title: "Course #"
+baseURL: "https://mjvo.github.io/vms564s"
+title: "VMS 564S"
 
 defaultContentLanguage: en
 languages:
@@ -24,14 +24,14 @@ outputFormats:
 
 params:
   course:
-    name: "Course Name"
+    name: "Physical Computing & the Internet of Things"
     dept_url: "https://aahvs.duke.edu"
-    dept_logo: "http://placehold.it/284x56&text=DEPT+LOGO"
-    day_time: "Days of Week, hh:mm - hh:mm AM/PM"
-    location: "Room #, Building"
-    hero_img: "http://placehold.it/1920x1080&text=Hero+Image"
-    hero_img_credit: "Image: <a href=\"#\">Title</a> by <a href=\"#\">Author Name</a>, YEAR"
-
+    dept_logo: "/images/AAHVS_Barcode_Logo.png"
+    day_time: "Tuesdays & Thursdays, 8:30 - 9:45 AM"
+    location: "A290 Smith Warehouse, Bay 9"
+    hero_img: "/images/arduino.png"
+    hero_img_credit: 
+    
   reveal_hugo:
     theme: white
     

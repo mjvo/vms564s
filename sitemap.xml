@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/announcements/welcome/</loc>
+    <lastmod>2018-08-12T10:58:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/slides/2018-06-02/</loc>
+    <lastmod>2018-06-02T16:43:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/announcements/</loc>
+    <lastmod>2018-08-12T10:58:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/</loc>
+    <lastmod>2018-08-12T10:58:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/requirements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/slides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/vms564s/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

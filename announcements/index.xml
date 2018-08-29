@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on VMS 564S</title>
+    <link>https://mjvo.github.io/vms564s/announcements/</link>
+    <description>Recent content in Announcements on VMS 564S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Aug 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://mjvo.github.io/vms564s/announcements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the first day of class</title>
+      <link>https://mjvo.github.io/vms564s/announcements/welcome/</link>
+      <pubDate>Sun, 12 Aug 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://mjvo.github.io/vms564s/announcements/welcome/</guid>
+      <description>  Steve Francia   one  1 2 3  two   sub2 </description>
+    </item>
+    
+  </channel>
+</rss>
